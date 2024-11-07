@@ -15,8 +15,4 @@ Una galaxia es la aplicación completa. Es la base de datos del proyecto y la in
 - Una o mas computadoras en red ejecutando la aplicacion
 - Un conjunto común de políticas a nivel de sistema que cumplen todos los componentes y objetos, como configuraciones de seguridad, alarmas y comunicaciones
 
-## Como crear y conectar una galaxia
-
-El **IDE** de system platform es utilizado para crear, configurar y administrar las galaxias. El **IDE** no puede iniciar en una _Galaxia de estado neutral_, entonces al iniciar el **IDE**, se solicitara que se conecte a una galaxia existente o cree una nueva.
-
 
