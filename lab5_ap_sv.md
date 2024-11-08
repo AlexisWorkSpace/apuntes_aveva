@@ -37,5 +37,5 @@
     - ScanStateCmd
 19. Agregar el **ScanGroupList** al **Watch window**
 20. En el cuadro de dialogo poner -1
-21. en el campo **Attribute reference**, arriba a la izquierda poner **Simulator.Fast.$Sys$Status** (entre sys van dos signos $)
+21. en el campo **Attribute reference**, arriba a la izquierda poner **Simulator.Fast.$Sys$Status**
 22. Guardar y minimizar
