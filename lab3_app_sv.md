@@ -59,3 +59,5 @@ Ahora pasaremos a la solapa de **Deploument**
 
 
 # Ha aparecido un error de bootstrap - revisar como solucionarlo
+# Error solucionado
+## El nombre del prod era incorrecto - la maquina prod con la cual se realizaba la comunicacion era simplemente **PROD** - despliegue exitoso
